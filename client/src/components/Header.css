@@ -1,0 +1,11 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+  }
+  
+.header_icons {
+  color: white;
+  margin: 15px;
+
+}
+
+
